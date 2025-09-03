@@ -1,0 +1,43 @@
+# Node/Vite/React (frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.vite
+
+# Python (backend)
+backend/uploads/
+backend/*.pyc
+backend/*.pyo
+backend/.env
+backend/.venv/
+backend/venv/
+backend/env/
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.coverage
+backend/.DS_Store
+backend/uploads/
+backend/highlights
+backend/audio
+
+
+# General
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+*.log
+*.sqlite3
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
